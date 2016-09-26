@@ -3,4 +3,5 @@
 void main()
 {
 cout<<"helloworld";
+cout<<"bye"
 }
